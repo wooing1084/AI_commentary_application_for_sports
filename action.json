@@ -1,0 +1,660 @@
+[
+    {
+        "player": 1,
+        "time": 0.0,
+        "team": "NGR",
+        "position": null,
+        "action": "dribble"
+    },
+    {
+        "player": 1,
+        "time": 0.0,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 0.0,
+        "team": "NGR",
+        "position": null,
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 0.0,
+        "team": "USA",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 0.0,
+        "team": "NGR",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 0.0,
+        "team": "USA",
+        "position": "Under the Nigerian basketball goal",
+        "action": "run"
+    },
+    {
+        "player": 1,
+        "time": 0.6217,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 0.6217,
+        "team": "NGR",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 0.6217,
+        "team": "USA",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 0.6217,
+        "team": "NGR",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 0.6217,
+        "team": "USA",
+        "position": "Under the Nigerian basketball goal",
+        "action": "run"
+    },
+    {
+        "player": 4,
+        "time": 0.6217,
+        "team": "USA",
+        "position": null,
+        "action": "run"
+    },
+    {
+        "player": 1,
+        "time": 1.2434,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 1.2434,
+        "team": "NGR",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 1.2434,
+        "team": "USA",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 5,
+        "time": 1.2434,
+        "team": "NGR",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 1,
+        "time": 1.8651,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 1.8651,
+        "team": "USA",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 1.8651,
+        "team": "NGR",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 1.8651,
+        "team": "USA",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 1,
+        "time": 2.4868,
+        "team": "NGR",
+        "position": "Under the Nigerian basketball goal",
+        "action": "dribble"
+    },
+    {
+        "player": 1,
+        "time": 2.4868,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 2.4868,
+        "team": "NGR",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 2.4868,
+        "team": "USA",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 2.4868,
+        "team": "NGR",
+        "position": "Nigeria corner",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 2.4868,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 4,
+        "time": 2.4868,
+        "team": "USA",
+        "position": null,
+        "action": "run"
+    },
+    {
+        "player": 1,
+        "time": 3.1085000000000003,
+        "team": "NGR",
+        "position": "Under the Nigerian basketball goal",
+        "action": "dribble"
+    },
+    {
+        "player": 1,
+        "time": 3.1085000000000003,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 3.1085000000000003,
+        "team": "USA",
+        "position": "Under the Nigerian basketball goal",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 3.1085000000000003,
+        "team": "NGR",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 3.1085000000000003,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 1,
+        "time": 3.7302,
+        "team": "NGR",
+        "position": "Under the Nigerian basketball goal",
+        "action": "dribble"
+    },
+    {
+        "player": 1,
+        "time": 3.7302,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 3.7302,
+        "team": "USA",
+        "position": "Under the Nigerian basketball goal",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 3.7302,
+        "team": "NGR",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 3.7302,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 1,
+        "time": 4.3519000000000005,
+        "team": "NGR",
+        "position": "Under the Nigerian basketball goal",
+        "action": "dribble"
+    },
+    {
+        "player": 1,
+        "time": 4.3519000000000005,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 4.3519000000000005,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 4.3519000000000005,
+        "team": "NGR",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 4.3519000000000005,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 1,
+        "time": 4.9736,
+        "team": "NGR",
+        "position": "center of court",
+        "action": "dribble"
+    },
+    {
+        "player": 1,
+        "time": 4.9736,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "run"
+    },
+    {
+        "player": 2,
+        "time": 4.9736,
+        "team": "USA",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 4.9736,
+        "team": "NGR",
+        "position": "center of court",
+        "action": "run"
+    },
+    {
+        "player": 3,
+        "time": 4.9736,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "run"
+    },
+    {
+        "player": 5,
+        "time": 4.9736,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "run"
+    },
+    {
+        "player": 1,
+        "time": 5.5953,
+        "team": "NGR",
+        "position": "center of court",
+        "action": "dribble"
+    },
+    {
+        "player": 1,
+        "time": 5.5953,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 2,
+        "time": 5.5953,
+        "team": "NGR",
+        "position": "Under the USA basketball goal",
+        "action": "walk"
+    },
+    {
+        "player": 2,
+        "time": 5.5953,
+        "team": "USA",
+        "position": "center of court",
+        "action": "walk"
+    },
+    {
+        "player": 3,
+        "time": 5.5953,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 3,
+        "time": 5.5953,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 5.5953,
+        "team": "USA",
+        "position": "Under the USA basketball goal",
+        "action": "walk"
+    },
+    {
+        "player": 1,
+        "time": 6.2170000000000005,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 2,
+        "time": 6.2170000000000005,
+        "team": "USA",
+        "position": "center of court",
+        "action": "walk"
+    },
+    {
+        "player": 3,
+        "time": 6.2170000000000005,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 3,
+        "time": 6.2170000000000005,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 6.2170000000000005,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 5,
+        "time": 6.2170000000000005,
+        "team": "USA",
+        "position": "center of court",
+        "action": "walk"
+    },
+    {
+        "player": 1,
+        "time": 6.8387,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 2,
+        "time": 6.8387,
+        "team": "USA",
+        "position": "center of court",
+        "action": "walk"
+    },
+    {
+        "player": 3,
+        "time": 6.8387,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 6.8387,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 6.8387,
+        "team": "USA",
+        "position": "Under the USA basketball goal",
+        "action": "walk"
+    },
+    {
+        "player": 5,
+        "time": 6.8387,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 1,
+        "time": 7.4604,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 2,
+        "time": 7.4604,
+        "team": "USA",
+        "position": "center of court",
+        "action": "walk"
+    },
+    {
+        "player": 3,
+        "time": 7.4604,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 7.4604,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 7.4604,
+        "team": "USA",
+        "position": "Under the USA basketball goal",
+        "action": "walk"
+    },
+    {
+        "player": 5,
+        "time": 7.4604,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 5,
+        "time": 7.4604,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 1,
+        "time": 8.0821,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "dribble"
+    },
+    {
+        "player": 1,
+        "time": 8.0821,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 8.0821,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 8.0821,
+        "team": "USA",
+        "position": "Under the USA basketball goal",
+        "action": "walk"
+    },
+    {
+        "player": 5,
+        "time": 8.0821,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 5,
+        "time": 8.0821,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 1,
+        "time": 8.703800000000001,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "dribble"
+    },
+    {
+        "player": 1,
+        "time": 8.703800000000001,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 3,
+        "time": 8.703800000000001,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 8.703800000000001,
+        "team": "NGR",
+        "position": "Under the USA basketball goal",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 8.703800000000001,
+        "team": "USA",
+        "position": "Under the USA basketball goal",
+        "action": "walk"
+    },
+    {
+        "player": 5,
+        "time": 8.703800000000001,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 5,
+        "time": 8.703800000000001,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 1,
+        "time": 9.3255,
+        "team": "NGR",
+        "position": "USA corner of court",
+        "action": "dribble"
+    },
+    {
+        "player": 1,
+        "time": 9.3255,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 2,
+        "time": 9.3255,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 3,
+        "time": 9.3255,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 9.3255,
+        "team": "NGR",
+        "position": "Under the USA basketball goal",
+        "action": "walk"
+    },
+    {
+        "player": 4,
+        "time": 9.3255,
+        "team": "USA",
+        "position": "Under the USA basketball goal",
+        "action": "walk"
+    },
+    {
+        "player": 5,
+        "time": 9.3255,
+        "team": "USA",
+        "position": "USA corner of court",
+        "action": "walk"
+    }
+]
